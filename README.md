@@ -2,4 +2,4 @@
 To submit your files:
 - Click the 'Upload File' button above
 <br/>or 
-- Clone and push to [URL] in your local Git client
+- Clone and push to https://github.com/beatricericafortcx/group-exercise-submission.git in your local Git client
