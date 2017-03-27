@@ -1,14 +1,14 @@
-# Cathay Pacific <br/>2017 IT Graduate Trainee Assessment Centre <br/>Group Exercise
+## Cathay Pacific <br/>2017 IT Graduate Trainee Assessment Centre <br/>Group Exercise
 
 
-## Submission
+### Submission
 To submit your files:
 - Click the 'Upload File' button above
 <br/>*or* 
 - Clone and push to https://github.com/beatricericafortcx/group-exercise-submission.git in your local Git client
 
-## Data Sources
-
+### Data Sources
+Please see below for some basic information about airlines, airports and Cathay Pacific.
 <table>
   <tbody>
     <!-- Row -->
