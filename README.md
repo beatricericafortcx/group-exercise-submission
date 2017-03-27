@@ -18,7 +18,17 @@ To submit your files:
     </tr>
     <!-- Row -->
     <tr>
-    <td><a href= "http://www.cathaypacific.com">Cathay Pacific</a></td>
+      <td>Soft copy provided by AC (link)</td>
+      <td>
+        <ul>
+          <li>Airline Code</li>
+          <li>Airport Code</li>
+        </ul>
+      </td>
+    </tr>
+    <!-- Row -->
+    <tr>
+    <td><a href='www.cathaypacific.com'>Cathay Pacific</a></td>
       <td>
         Flight
         <ul>
@@ -42,17 +52,6 @@ To submit your files:
         </ul>
       </td>
     </tr>  
-    
-    <!-- Row -->
-    <tr>
-      <td>Soft copy provided by AC (link)</td>
-      <td>
-        <ul>
-          <li>Airline Code</li>
-          <li>Airport Code</li>
-        </ul>
-      </td>
-    </tr>
     <!-- Row -->
     <tr>
       <td>Hong Kong International Airport (HKIA)</td>
