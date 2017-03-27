@@ -28,7 +28,7 @@ To submit your files:
     </tr>
     <!-- Row -->
     <tr>
-    <td><a href='www.cathaypacific.com'>Cathay Pacific</a></td>
+    <td>Cathay Pacific (<a href='www.cathay pacific.com'>link</a>)</td>
       <td>
         Flight
         <ul>
@@ -54,7 +54,7 @@ To submit your files:
     </tr>  
     <!-- Row -->
     <tr>
-    <td><a href='http://www.hongkongairport.com/'>Hong Kong International Airport (HKIA)</a></td>
+    <td>Hong Kong International Airport (HKIA) (<a href='http://www.hongkongairport.com/'>link</a>)</td>
       <td>
         Real Time Flight Information
         <ul>
@@ -72,7 +72,7 @@ To submit your files:
     </tr>
     <!-- Row -->
     <tr>
-      <td>International Air Transport Association (IATA))</td>
+    <td>International Air Transport Association (IATA) (<a href='http://www.iata.org '>link</a>)</td>
       <td>
         <ul>
           <li>IATA Codes</li>
@@ -83,7 +83,7 @@ To submit your files:
     </tr>
      <!-- Row -->
     <tr>
-      <td>MPO</td>
+    <td>Marco Polo Club (<a href='https://www.cathaypacific.com/cx/en_HK/frequent-flyers/about-the-club/introduction.html'>link</a>)</td>
       <td>
         <ul>
           <li>Background of Marco Polo Club</li>
@@ -94,7 +94,7 @@ To submit your files:
     </tr>
     <!-- Row -->
     <tr>
-      <td>oneworld</td>
+    <td><b>one</b>world (<a href='https://www.oneworld.com/member-airlines/overview'>link</a>)</td>
       <td>
         <ul>
           <li>Member airlines</li>
