@@ -54,7 +54,7 @@ To submit your files:
     </tr>  
     <!-- Row -->
     <tr>
-      <td>Hong Kong International Airport (HKIA)</td>
+    <td><a href='http://www.hongkongairport.com/'>Hong Kong International Airport (HKIA)</a></td>
       <td>
         Real Time Flight Information
         <ul>
