@@ -18,6 +18,33 @@ To submit your files:
     </tr>
     <!-- Row -->
     <tr>
+    <td><a href= "http://www.cathaypacific.com">Cathay Pacific</a></td>
+      <td>
+        Flight
+        <ul>
+          <li>Flight timetable</li>
+          <li>Flight status</li>
+          <li>Flight notifications to passengers</li>
+          <li>Aircraft and fleet</li>
+        </ul>
+        <br/>
+        Airport
+        <ul>
+          <li>Hong Kong</li>
+          <li>Other airports</li>
+          <li>Lounges</li>
+        </ul>
+        <br/>
+        Inflight
+        <ul>
+          <li>Entertainment</li>
+          <li>Duty-free shopping</li>
+        </ul>
+      </td>
+    </tr>  
+    
+    <!-- Row -->
+    <tr>
       <td>Soft copy provided by AC (link)</td>
       <td>
         <ul>
@@ -66,32 +93,7 @@ To submit your files:
         </ul>
       </td>
     </tr>
-    <!-- Row -->
-    <tr>
-      <td>Cathay Pacific</td>
-      <td>
-        Flight
-        <ul>
-          <li>Flight timetable</li>
-          <li>Flight status</li>
-          <li>Flight notifications to passengers</li>
-          <li>Aircraft and fleet</li>
-        </ul>
-        <br/>
-        Airport
-        <ul>
-          <li>Hong Kong</li>
-          <li>Other airports</li>
-          <li>Lounges</li>
-        </ul>
-        <br/>
-        Inflight
-        <ul>
-          <li>Entertainment</li>
-          <li>Duty-free shopping</li>
-        </ul>
-      </td>
-    </tr>  
+   
     <!-- Row -->
     <tr>
       <td>oneworld</td>
