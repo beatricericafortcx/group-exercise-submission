@@ -8,7 +8,7 @@ To submit your files:
 - Clone and push to https://github.com/beatricericafortcx/group-exercise-submission.git in your local Git client
 
 ### Data Sources
-Please see below for some basic information about airlines, airports and Cathay Pacific.
+Basic information about airlines, airports and Cathay Pacific are provided below.
 <table>
   <tbody>
     <!-- Row -->
@@ -18,7 +18,7 @@ Please see below for some basic information about airlines, airports and Cathay 
     </tr>
     <!-- Row -->
     <tr>
-      <td>Airline and Airport Codes.xlsx (link)</td>
+    <td>Airline and Airport Codes.xlsx (<a href='https://github.com/beatricericafortcx/group-exercise-submission/raw/master/Airline%20and%20Airport%20Codes.xlsx'>link</a>)</td>
       <td>
         <ul>
           <li>Airline Code</li>
