@@ -18,7 +18,7 @@ To submit your files:
     </tr>
     <!-- Row -->
     <tr>
-      <td>Soft copy provided by AC (link)</td>
+      <td>Airline and Airport Codes (link)</td>
       <td>
         <ul>
           <li>Airline Code</li>
@@ -30,22 +30,19 @@ To submit your files:
     <tr>
     <td>Cathay Pacific (<a href='www.cathay pacific.com'>link</a>)</td>
       <td>
-        Flight
+        <a href='http://www.cathaypacific.com/cx/en_HK/travel-information/flight.html'>Flight</a>
         <ul>
-          <li>Flight timetable</li>
-          <li>Flight status</li>
-          <li>Flight notifications to passengers</li>
+          <li>Flight timetable and status</li>
           <li>Aircraft and fleet</li>
         </ul>
         <br/>
-        Airport
+        <a href='http://www.cathaypacific.com/cx/en_HK/travel-information/airport.html'>Airport</a>
         <ul>
-          <li>Hong Kong</li>
-          <li>Other airports</li>
+          <li>HKIA and Other Airports</li>
           <li>Lounges</li>
         </ul>
         <br/>
-        Inflight
+        <a href='http://www.cathaypacific.com/cx/en_HK/travel-information/inflight.html'>Inflight</a>
         <ul>
           <li>Entertainment</li>
           <li>Duty-free shopping</li>
@@ -56,17 +53,16 @@ To submit your files:
     <tr>
     <td>Hong Kong International Airport (HKIA) (<a href='http://www.hongkongairport.com/'>link</a>)</td>
       <td>
-        Real Time Flight Information
+      <a href='http://www.hongkongairport.com/flightinfo/eng/chkfltarr.html'>Real Time Flight Information</a>
         <ul>
           <li>Passenger Arrivals</li>
           <li>Passenger Departures</li>
         </ul>
         <br/>
-        Airline Information
+        <a href='http://www.hongkongairport.com/eng/flight/airline-information/enquiry.html'>Airline Information</a>
         <ul>
           <li>Airline Reservation &AMP; Enquiries</li>
           <li>Airline Check-In Areas</li>
-          <li>Airline Lounges</li>
         </ul>
       </td>
     </tr>
