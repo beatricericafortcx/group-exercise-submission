@@ -18,7 +18,7 @@ To submit your files:
     </tr>
     <!-- Row -->
     <tr>
-      <td>Airline and Airport Codes (link)</td>
+      <td>Airline and Airport Codes.xlsx (link)</td>
       <td>
         <ul>
           <li>Airline Code</li>
@@ -26,29 +26,6 @@ To submit your files:
         </ul>
       </td>
     </tr>
-    <!-- Row -->
-    <tr>
-    <td>Cathay Pacific (<a href='www.cathay pacific.com'>link</a>)</td>
-      <td>
-        <a href='http://www.cathaypacific.com/cx/en_HK/travel-information/flight.html'>Flight</a>
-        <ul>
-          <li>Flight timetable and status</li>
-          <li>Aircraft and fleet</li>
-        </ul>
-        <br/>
-        <a href='http://www.cathaypacific.com/cx/en_HK/travel-information/airport.html'>Airport</a>
-        <ul>
-          <li>HKIA and Other Airports</li>
-          <li>Lounges</li>
-        </ul>
-        <br/>
-        <a href='http://www.cathaypacific.com/cx/en_HK/travel-information/inflight.html'>Inflight</a>
-        <ul>
-          <li>Entertainment</li>
-          <li>Duty-free shopping</li>
-        </ul>
-      </td>
-    </tr>  
     <!-- Row -->
     <tr>
     <td>Hong Kong International Airport (HKIA) (<a href='http://www.hongkongairport.com/'>link</a>)</td>
@@ -77,6 +54,29 @@ To submit your files:
         </ul>
       </td>
     </tr>
+    <!-- Row -->
+    <tr>
+    <td>Cathay Pacific (<a href='www.cathay pacific.com'>link</a>)</td>
+      <td>
+        <a href='http://www.cathaypacific.com/cx/en_HK/travel-information/flight.html'>Flight</a>
+        <ul>
+          <li>Flight timetable and status</li>
+          <li>Aircraft and fleet</li>
+        </ul>
+        <br/>
+        <a href='http://www.cathaypacific.com/cx/en_HK/travel-information/airport.html'>Airport</a>
+        <ul>
+          <li>HKIA and Other Airports</li>
+          <li>Lounges</li>
+        </ul>
+        <br/>
+        <a href='http://www.cathaypacific.com/cx/en_HK/travel-information/inflight.html'>Inflight</a>
+        <ul>
+          <li>Entertainment</li>
+          <li>Duty-free shopping</li>
+        </ul>
+      </td>
+    </tr>  
      <!-- Row -->
     <tr>
     <td>Marco Polo Club (<a href='https://www.cathaypacific.com/cx/en_HK/frequent-flyers/about-the-club/introduction.html'>link</a>)</td>
