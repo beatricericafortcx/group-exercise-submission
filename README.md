@@ -92,7 +92,6 @@ To submit your files:
         </ul>
       </td>
     </tr>
-   
     <!-- Row -->
     <tr>
       <td>oneworld</td>
