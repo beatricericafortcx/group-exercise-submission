@@ -8,7 +8,7 @@ To submit your files:
 - Clone and push to https://github.com/beatricericafortcx/group-exercise-submission.git in your local Git client
 
 ### Reference Information
-Basic information about airlines, airports and Cathay Pacific are provided below.
+Basic information about airlines, airports and Cathay Pacific are provided below for your reference. Usage of this information is optional.
 <table>
   <tbody>
     <!-- Row -->
