@@ -20,7 +20,7 @@ Basic information about airlines, airports and Cathay Pacific are provided below
     </tr>
     <!-- Row -->
     <tr>
-    <td>Airline and Airport Codes.xlsx (<a href='https://github.com/beatricericafortcx/group-exercise-submission/raw/master/Airline%20and%20Airport%20Codes.xlsx'>link</a>)</td>
+    <td><a href='https://github.com/beatricericafortcx/group-exercise-submission/raw/master/Airline%20and%20Airport%20Codes.xlsx'>Airline and Airport Codes.xlsx</a></td>
       <td>
         <ul>
           <li>Airline codes</li>
@@ -30,7 +30,7 @@ Basic information about airlines, airports and Cathay Pacific are provided below
     </tr>
     <!-- Row -->
     <tr>
-    <td>Hong Kong International Airport (HKIA) (<a href='http://www.hongkongairport.com/'>link</a>)</td>
+    <td><a href='http://www.hongkongairport.com/'>Hong Kong International Airport (HKIA)</a></td>
       <td>
       <a href='http://www.hongkongairport.com/flightinfo/eng/chkfltarr.html'>Real Time Flight Information</a>
         <ul>
@@ -47,7 +47,7 @@ Basic information about airlines, airports and Cathay Pacific are provided below
     </tr>
     <!-- Row -->
     <tr>
-    <td>International Air Transport Association (IATA) (<a href='http://www.iata.org'>link</a>)</td>
+    <td><a href='http://www.iata.org'>International Air Transport Association (IATA)</a></td>
       <td>
         <ul>
           <li>Member airlines</li>
@@ -58,7 +58,7 @@ Basic information about airlines, airports and Cathay Pacific are provided below
     </tr>
     <!-- Row -->
     <tr>
-    <td>Cathay Pacific (<a href='http://www.cathaypacific.com'>link</a>)</td>
+    <td><a href='http://www.cathaypacific.com'>Cathay Pacific</a></td>
       <td>
         <a href='http://www.cathaypacific.com/cx/en_HK/travel-information/flight.html'>Flight</a>
         <ul>
@@ -81,7 +81,7 @@ Basic information about airlines, airports and Cathay Pacific are provided below
     </tr>  
      <!-- Row -->
     <tr>
-    <td>Marco Polo Club (<a href='https://www.cathaypacific.com/cx/en_HK/frequent-flyers/about-the-club/introduction.html'>link</a>)</td>
+    <td><a href='https://www.cathaypacific.com/cx/en_HK/frequent-flyers/about-the-club/introduction.html'>Marco Polo Club</a></td>
       <td>
         <ul>
           <li>Background of Marco Polo Club</li>
@@ -92,7 +92,7 @@ Basic information about airlines, airports and Cathay Pacific are provided below
     </tr>
     <!-- Row -->
     <tr>
-    <td><b>one</b>world (<a href='https://www.oneworld.com/member-airlines/overview'>link</a>)</td>
+    <td><a href='https://www.oneworld.com/member-airlines/overview'><b>one</b>world</a></td>
       <td>
         <ul>
           <li>Member airlines</li>
