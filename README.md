@@ -1,4 +1,4 @@
-## Cathay Pacific 2017 IT Graduate Trainee Assessment Centre <br/>Group Exercise
+## Cathay Pacific 2017 IT Graduate Trainee Programme <br/>Assessment Centre Group Exercise
 
 
 ### Submission
