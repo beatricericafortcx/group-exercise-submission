@@ -23,8 +23,8 @@ Basic information about airlines, airports and Cathay Pacific are provided below
     <td>Airline and Airport Codes.xlsx (<a href='https://github.com/beatricericafortcx/group-exercise-submission/raw/master/Airline%20and%20Airport%20Codes.xlsx'>link</a>)</td>
       <td>
         <ul>
-          <li>Airline Codes</li>
-          <li>Airport Codes</li>
+          <li>Airline codes</li>
+          <li>Airport codes</li>
         </ul>
       </td>
     </tr>
@@ -34,14 +34,14 @@ Basic information about airlines, airports and Cathay Pacific are provided below
       <td>
       <a href='http://www.hongkongairport.com/flightinfo/eng/chkfltarr.html'>Real Time Flight Information</a>
         <ul>
-          <li>Passenger Arrivals</li>
-          <li>Passenger Departures</li>
+          <li>Passenger arrivals</li>
+          <li>Passenger departures</li>
         </ul>
         <br/>
         <a href='http://www.hongkongairport.com/eng/flight/airline-information/enquiry.html'>Airline Information</a>
         <ul>
-          <li>Airline Reservation &AMP; Enquiries</li>
-          <li>Airline Check-In Areas</li>
+          <li>Airline reservation &AMP; enquiries</li>
+          <li>Airline check-in areas</li>
         </ul>
       </td>
     </tr>
@@ -50,9 +50,9 @@ Basic information about airlines, airports and Cathay Pacific are provided below
     <td>International Air Transport Association (IATA) (<a href='http://www.iata.org'>link</a>)</td>
       <td>
         <ul>
-          <li>IATA Codes</li>
-          <li>Industry Facts and Statistics</li>
-          <li>Aviation Charges, Fuel Fees and Taxes</li>
+          <li>Member airlines</li>
+          <li>IATA agents</li>
+          <li>Industry facts and figures</li>
         </ul>
       </td>
     </tr>
@@ -68,7 +68,7 @@ Basic information about airlines, airports and Cathay Pacific are provided below
         <br/>
         <a href='http://www.cathaypacific.com/cx/en_HK/travel-information/airport.html'>Airport</a>
         <ul>
-          <li>HKIA and Other Airports</li>
+          <li>HKIA and other airports</li>
           <li>Lounges</li>
         </ul>
         <br/>
