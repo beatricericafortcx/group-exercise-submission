@@ -16,15 +16,15 @@ Basic information about airlines, airports and Cathay Pacific are provided below
     <!-- Row -->
     <tr>
       <th>Source</th>
-      <th>Data / Information Available</th>
+      <th>Information Available</th>
     </tr>
     <!-- Row -->
     <tr>
     <td>Airline and Airport Codes.xlsx (<a href='https://github.com/beatricericafortcx/group-exercise-submission/raw/master/Airline%20and%20Airport%20Codes.xlsx'>link</a>)</td>
       <td>
         <ul>
-          <li>Airline Code</li>
-          <li>Airport Code</li>
+          <li>Airline Codes</li>
+          <li>Airport Codes</li>
         </ul>
       </td>
     </tr>
@@ -47,7 +47,7 @@ Basic information about airlines, airports and Cathay Pacific are provided below
     </tr>
     <!-- Row -->
     <tr>
-    <td>International Air Transport Association (IATA) (<a href='http://www.iata.org '>link</a>)</td>
+    <td>International Air Transport Association (IATA) (<a href='http://www.iata.org'>link</a>)</td>
       <td>
         <ul>
           <li>IATA Codes</li>
@@ -58,7 +58,7 @@ Basic information about airlines, airports and Cathay Pacific are provided below
     </tr>
     <!-- Row -->
     <tr>
-    <td>Cathay Pacific (<a href='www.cathay pacific.com'>link</a>)</td>
+    <td>Cathay Pacific (<a href='http://www.cathaypacific.com'>link</a>)</td>
       <td>
         <a href='http://www.cathaypacific.com/cx/en_HK/travel-information/flight.html'>Flight</a>
         <ul>
