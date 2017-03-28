@@ -3,12 +3,14 @@
 
 ### Submission
 To submit your files:
-- Click the 'Upload File' button above
+- Click the 'Upload File' button above.
 <br/>*or* 
-- Clone and push to https://github.com/beatricericafortcx/group-exercise-submission.git in your local Git client
+- Clone and push to https://github.com/beatricericafortcx/group-exercise-submission.git in your local Git client.
+
+<br/>
 
 ### Reference Information
-Basic information about airlines, airports and Cathay Pacific are provided below for your reference. Usage of this information is optional.
+Basic information about airlines, airports and Cathay Pacific are provided below for your reference. Usage of this information is not compulsory.
 <table>
   <tbody>
     <!-- Row -->
